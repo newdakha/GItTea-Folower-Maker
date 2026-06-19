@@ -1,4 +1,4 @@
-# Gitea Fake Followers
+3# Gitea Fake Followers
 
 ![Python](https://img.shields.io/badge/Made%20with-Python-blue.svg)
 ![Gitea](https://img.shields.io/badge/Gitea-API-609926?logo=gitea)
