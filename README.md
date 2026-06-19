@@ -1,4 +1,5 @@
-фыв
+wonna die
+
  Gitea Fake Followers
 
 ![Python](https://img.shields.io/badge/Made%20with-Python-blue.svg)
