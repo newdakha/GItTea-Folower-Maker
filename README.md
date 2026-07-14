@@ -23,7 +23,7 @@ TARGET_USER  = "username-to-follow"
 
 ---
 
-## How it works
+## How it works:
 
 - Prompts for how many followers to create
 - Creates random accounts via Gitea admin API
